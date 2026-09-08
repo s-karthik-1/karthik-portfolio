@@ -36,6 +36,14 @@ const projects = [
     tags: ["React", "ExpressJS", "NodeJS", "MongoDB"],
     github: "https://github.com/s-karthik-1/Housify---affordable-housing-planner.git",
   },
+  {
+    title: "Karthik Portfolio",
+    description:
+      "A personal portfolio website built to showcase my professional profile, technical skills, projects, and experience. Features a responsive, component-based layout with reusable UI elements, designed as a live, recruiter-facing personal brand site.",
+    image: "/Projects/Karthik-Portfolio.jpg",
+    tags: ["React", "Vite", "JavaScript", "CSS"],
+    github: "https://github.com/s-karthik-1/karthik-portfolio.git",
+  },
 ];
 
 export const Projects = () => {
